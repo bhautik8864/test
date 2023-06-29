@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzlCPAn2SxKYfFsmiHdzFmTcqiVokTERVy1qnTLSxYM_CmCMotoL1kOh4byqXiFLlhcXA/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzZsR7glcsx2xd8L5mEtjK-k4pHr0sFK1BAcnqs0Rbkp0o9VgS027qSlN05A0obMiO2rw/exec'
   const form = document.forms['submit-to-google-sheet']
 
   form.addEventListener('submit', e => {
